@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+}
+
+.container div {
+    font-size: 16px;
+    color: #333; 
+}
+
+.container img {
+    width: 200px;
+    height: 190px;
+    border-radius: 10px;
+}

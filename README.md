@@ -6,7 +6,7 @@ Estou estudando informática para internet, em uma ETEC. Pretendo seguir na áre
 <div>
    <a href="https://github.com/seu-usuário-aqui">
    <img height=190em src="https://github-readme-streak-stats.herokuapp.com/?user=matheussantosrodrigues" />
-   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantosrodrigues&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Estou aprendendo 

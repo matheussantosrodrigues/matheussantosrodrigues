@@ -1,7 +1,12 @@
+<link rel="stylesheet" href="style.css">
 ## Olá! Sou Matheus Santos! <br>
-<img src="giteu.png" width="200px" height="190px">
-Estou estudando informática para internet, em uma ETEC. Pretendo seguir na área de full-stack, com mais facilidade en front-end.
-
+<div class="container">
+   <div>
+      Estou estudando informática para internet, em uma ETEC. <br>
+      Pretendo seguir na área de full-stack, com mais facilidade em front-end.
+   </div>
+   <img src="giteu.png" width="200px" height="190px">
+</div>
 <br>
 <hr>
 <br>

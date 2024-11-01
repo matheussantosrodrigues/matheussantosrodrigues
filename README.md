@@ -1,4 +1,21 @@
-<link rel="stylesheet" href="style.css">
+<style>
+        .container {
+            display: flex;
+            align-items: center; /* Alinha o texto e a imagem verticalmente */
+            gap: 20px; /* Espaço entre o texto e a imagem */
+        }
+
+        .container div {
+            font-size: 16px;
+            color: #333; /* Cor do texto */
+        }
+
+        .container img {
+            width: 200px;
+            height: 190px;
+            border-radius: 10px; /* Adiciona bordas arredondadas à imagem */
+        }
+    </style>
 ## Olá! Sou Matheus Santos! <br>
 <div class="container">
    <div>

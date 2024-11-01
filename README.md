@@ -1,5 +1,6 @@
-## Olá! Sou Matheus Santos!
+## Olá! Sou Matheus Santos! <img src="giteu.png">
 Estou estudando informática para internet, em uma ETEC. Pretendo seguir na área de full-stack, com mais facilidade en front-end.
+
 <br>
 <hr>
 <br>

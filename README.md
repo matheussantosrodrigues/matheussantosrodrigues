@@ -1,4 +1,4 @@
-## Olá! Sou Matheus Santos! <img src="giteu.png" width="70px" height="120px">
+## Olá! Sou Matheus Santos! <img src="giteu.png" width="200px" height="190px">
 Estou estudando informática para internet, em uma ETEC. Pretendo seguir na área de full-stack, com mais facilidade en front-end.
 
 <br>

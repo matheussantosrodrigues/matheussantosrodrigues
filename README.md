@@ -10,14 +10,14 @@
 <hr>
 <br>
 <div>
-   <a href="https://github.com/seu-usuário-aqui">
+   <a href="https://github.com/matheussantosrodrigues">
    <img height=190em src="https://github-readme-streak-stats.herokuapp.com/?user=matheussantosrodrigues" />
-   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantosrodrigues&layout=compact&langs_count=7&theme=dracula"/>
+   </a>
 </div>
 
-## Estou aprendendo 
+## Tecnologias Utilizadas 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,react,git,github,mysql,nodejs,npm,vscode">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,react,git,mysql,nodejs,npm,vscode">
 
 ## Contatos:
 

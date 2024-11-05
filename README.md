@@ -17,11 +17,11 @@
 
 ## Tecnologias Utilizadas 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,react,git,mysql,nodejs,npm,vscode,mongodb">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,react,git,mysql,nodejs,vscode">
 
 ## Contatos:
 
 <div>
 <a href="https://instagram.com/matheussantosdri" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/matheussantosdri" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<!-- <a href="https://www.linkedin.com/in/matheussantosdri" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    -->
 </div>

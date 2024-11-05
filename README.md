@@ -17,7 +17,7 @@
 
 ## Tecnologias Utilizadas 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,react,git,mysql,nodejs,vscode">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,react,git,mysql,nodejs">
 
 ## Contatos:
 
